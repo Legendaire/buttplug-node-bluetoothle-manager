@@ -22,7 +22,7 @@
     "tslint:fix": "tslint -c tslint.json --fix semicolon,comma,no-var-keyword,ordered-imports \"src/**/*.ts\" \"tests/**/*.ts\""
   },
   "dependencies": {
-    "bluetooth-hci-socket": "https://github.com/jrobeson/node-bluetooth-hci-socket/#fix-builds-for-node-10",
+    "bluetooth-hci-socket": "https://github.com/th317erd/buttplug-js-websocket-server.git",
     "noble-uwp": "^0.6.2"
   },
   "peerDependencies": {
