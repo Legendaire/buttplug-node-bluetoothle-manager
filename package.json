@@ -23,7 +23,7 @@
     "tslint:fix": "tslint -c tslint.json --fix semicolon,comma,no-var-keyword,ordered-imports \"src/**/*.ts\" \"tests/**/*.ts\""
   },
   "dependencies": {
-    "bluetooth-hci-socket": "latest",
+    "@abandonware/bluetooth-hci-socket": "latest",
     "noble-uwp": "^0.6.2"
   },
   "peerDependencies": {
